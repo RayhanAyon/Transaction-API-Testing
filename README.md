@@ -23,3 +23,6 @@ By this transaction API project named Transaction system API testing, we can cre
 
 ## Standard Test Case for This Transaction System API
 https://docs.google.com/spreadsheets/d/1HPs6s90ZIIjSqTBlFEk7YBdRYI7mUFy6E2uSMA-aXGY/edit?usp=sharing
+
+## Bug/Improvement Report for This Transaction System API
+https://docs.google.com/spreadsheets/d/1breK6s8GPKQtPl_POnQZl7b1GWPKmIFnLvznxGJIs2U/edit?usp=sharing
